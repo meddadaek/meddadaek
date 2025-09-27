@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6889E2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01BAEF&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+AEK+GitHub+profile!;🚀+Python+%26+C+Enthusiast;🎨+Design+%26+Branding+Lover;🤖+Future+AI+Engineer;🔥+Always+Learning+%26+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01BAEF&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+AEK+GitHub+profile!;🚀+Python+%26+C+Enthusiast;🎨+Design+%26+Lover;🤖+Future+AI+Engineer;🔥+Always+Learning+%26+Building; 👨‍💻+Currently+Learning+ML)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 - ❤️ Passionate about **Programming, AI, and Design**
