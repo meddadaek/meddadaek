@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=Country-Explorer&theme=tokyonight&cache_seconds=0)](https://github.com/dorokanji/Country-Explorer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=In_touche&theme=tokyonight&cache_seconds=0)](https://github.com/dorokanji/Country-Explorer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=Algorithmic-Exercises&theme=tokyonight&cache_seconds=0)](https://github.com/dorokanji/Algorithmic-Exercises)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=Python-Grind&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/Python-Grind)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=AI-Roadmap&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/AI-Roadmap)
