@@ -1,16 +1,43 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6889E2&height=120&section=header"/>
 
-<!--
-**meddadaek/meddadaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01BAEF&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;🚀+Python+%26+C+Enthusiast;🎨+Design+%26+Branding+Lover;🤖+Future+AI+Engineer;🔥+Always+Learning+%26+Building)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- ❤️ Passionate about **Programming, AI, and Design**
+- 🔭 Currently exploring **Python (AI, Automation) & C (low-level magic)**
+- 🎨 Growing my skills in **Graphic Design & Content Creation**
+- 📖 Learning **Algorithms, Data Structures, and Competitive Programming**
+- 💡 Always curious & grinding silently toward mastery 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tech & Tools I Use
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)&nbsp;
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)&nbsp;
+
+---
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dorokanji&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meddadaek&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meddadaek&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🌟 Featured Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=Country-Explorer&theme=tokyonight&cache_seconds=0)](https://github.com/dorokanji/Country-Explorer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=Algorithmic-Exercises&theme=tokyonight&cache_seconds=0)](https://github.com/dorokanji/Algorithmic-Exercises)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=Python-Grind&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/Python-Grind)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=AI-Roadmap&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/AI-Roadmap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=Design-Portfolio&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/Design-Portfolio)
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6889E2&height=120&section=footer"/>
