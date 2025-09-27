@@ -23,7 +23,7 @@
 ---
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dorokanji&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=meddadaek&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meddadaek&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
@@ -32,11 +32,12 @@
 ---
 
 ## 🌟 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=In_touche&theme=tokyonight&cache_seconds=0)](https://github.com/dorokanji/Country-Explorer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=Algorithmic-Exercises&theme=tokyonight&cache_seconds=0)](https://github.com/dorokanji/Algorithmic-Exercises)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=Python-Grind&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/Python-Grind)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=AI-Roadmap&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/AI-Roadmap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=Design-Portfolio&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/Design-Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=Logistic_regression-model&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/Logistic_regression-model)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=path_finder&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/path_finder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=planet-simulation&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/planet-simulation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=Sudoko_solver&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/Sudoko_solver)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=File_translator&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/File_translator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meddadaek&repo=SUDOKU_game&theme=tokyonight&cache_seconds=0)](https://github.com/meddadaek/SUDOKU_game)
 
 ---
 
