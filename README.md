@@ -8,8 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=2000&color=F700FF&center=true&vCenter=true&width=600&lines=⚡+Building+AI+Systems+That+Think+and+Create;💾+Designing+Machines+With+Soul;🚀+Coding+The+Future+One+Neuron+At+A+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=2000&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+AI+Systems+That+Think+and+Create;Designing+Machines+With+Soul;Coding+The+Future+One+Neuron+At+A+Time" alt="Typing SVG" />
 </p>
+
+
 
 ---
 
@@ -56,7 +58,7 @@ Hey, I’m **Doro Kanji** — a creator moving through three worlds:
 | **🌐 File Translator** | Smart multilingual text automation | Python + APIs |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanji58360&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF00FF&icon_color=00FFFF" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=meddadaek&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF00FF&icon_color=00FFFF" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meddadaek&theme=tokyonight&hide_border=true&ring=FF00FF&fire=00FFFF" width="48%"/>
 </p>
 
@@ -79,7 +81,7 @@ Hey, I’m **Doro Kanji** — a creator moving through three worlds:
 ## 🌌 System Activity  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanji58360&theme=tokyo-night&hide_border=true&area=true&color=00FFFF&line=FF00FF&custom_title=⚡+Neural+Activity+Graph+⚡"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meddadaek&theme=tokyo-night&hide_border=true&area=true&color=00FFFF&line=FF00FF&custom_title=⚡+Neural+Activity+Graph+⚡"/>
 </p>
 
 ---
