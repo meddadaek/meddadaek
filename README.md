@@ -59,8 +59,10 @@ Hey, I’m **Doro Kanji** — a creator moving through three worlds:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meddadaek&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF00FF&icon_color=00FFFF" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meddadaek&theme=tokyonight&hide_border=true&ring=FF00FF&fire=00FFFF" width="48%"/>
+ 
+  <img src="https://streak-stats.demolab.com?user=meddadaek&theme=tokyonight&hide_border=true&ring=FF00FF&fire=00FFFF&currStreakNum=00FFFF&sideNums=FF00FF" width="80%"/>
 </p>
+
 
 
 ---
