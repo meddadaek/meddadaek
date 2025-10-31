@@ -61,8 +61,8 @@ Currently navigating the world between **machine intelligence**, **low-level com
 | 🔤 **File Translator** | Translates text files between languages | Python |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanji58360&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanji58360&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meddadaek&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meddadaek&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -70,7 +70,7 @@ Currently navigating the world between **machine intelligence**, **low-level com
 ## 🌍 Activity & Growth  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanji58360&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meddadaek&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -85,8 +85,8 @@ Currently navigating the world between **machine intelligence**, **low-level com
 
 <p align="center">
   <a href="https://x.com/kanji58360"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://github.com/kanji58360"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/kanji_designs"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/meddadaek"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_med_AEK"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
