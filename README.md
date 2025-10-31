@@ -35,14 +35,18 @@ Hey, I’m **Doro Kanji** — a creator moving through three worlds:
 ## ⚙️ Tech Stack — *Weapons of the Future*  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,flutter,docker,git,github,figma,photoshop,vscode,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,flutter,docker,git,github,figma,photoshop,vscode,jupyter,fastapi,sqlite&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-00FFFF?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI-Core-FF00FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-Engine-00FFFF?style=for-the-badge&logo=adobe&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-TensorFlow%20|%20PyTorch%20|%20Keras%20|%20Scikit--Learn%20|%20Pandas-FF00FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI-00FFFF?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-SQL-FF00FF?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Figma%20|%20Photoshop-00FFFF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Assistants-Claude%20|%20Cursor-FF00FF?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-LeetCode-00FFFF?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
+
 
 <p align="center"><sub>⚡ Every tool is a neural extension of thought.</sub></p>
 
