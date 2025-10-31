@@ -35,7 +35,7 @@ Hey, I’m **Doro Kanji** — a creator moving through three worlds:
 ## ⚙️ Tech Stack — *Weapons of the Future*  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,flutter,docker,git,github,figma,photoshop,vscode,jupyter,fastapi,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,flutter,docker,git,github,figma,photoshop,vscode,fastapi,sqlite&theme=dark" />
 </p>
 
 <p align="center">
