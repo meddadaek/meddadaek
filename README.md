@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-<em>CS Student • AI Engineer in Training • Digital Designer</em>
+<em>CS Student • AI Engineer in Training</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 💠 About Me  
 
-Hey, I’m **Doro Kanji** — a creator moving through three worlds:  
+Hey, I’m **AEK MEDDAD** — a creator moving through three worlds:  
 **Artificial Intelligence**, **Low-Level Engineering**, and **Cyber Aesthetics**.  
 
 > _Where logic meets design — I engineer systems that *feel* alive._  
