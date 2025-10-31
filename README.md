@@ -62,12 +62,17 @@ Hey, I’m **Doro Kanji** — a creator moving through three worlds:
 
 ## 🧩 Neural Constructs — *Featured Projects*  
 
-| 💾 Project | 🧠 Description | 🧩 Stack |
-|:------------|:----------------|:----------|
-| **🪐 Planet Simulation** | Real-time gravity simulation visualizing orbital chaos | Python + Physics Engine |
-| **🧠 Sudoku Solver** | AI-driven logic solver powered by recursion | Python |
-| **🎮 Sudoku Game** | Interactive CLI puzzle experience | Python |
-| **🌐 File Translator** | Smart multilingual text automation | Python + APIs |
+## 🚀 Featured Projects — *Building Intelligence, One System at a Time*
+
+| Project | Description | Stack |
+|:---------|:-------------|:-------|
+| **GYM AI — Personalized Training Recommender** | Machine learning system that predicts and adapts workout plans like Gymshark's engine, based on user goals and progress. | Python · Pandas · Scikit-Learn · TensorFlow |
+| **Cat vs Dog Classifier** | Deep learning CNN that classifies pet images with high accuracy — trained from scratch on a real-world dataset. | TensorFlow · Keras · OpenCV |
+| **Planet Simulation** | Real-time orbital system with gravitational physics and dynamic rendering. | Python · Physics Engine |
+| **Sudoku Solver** | Recursive backtracking AI that solves complex puzzles instantly. | Python |
+| **Sudoku Game** | CLI-based interactive version of Sudoku — built from logic to interface. | Python |
+| **Space Shooter (Coming Soon)** | Fast-paced 2D arcade game with AI-powered enemy behavior and procedural level generation. | Python · Pygame · Neural Logic |
+| **File Translator** | Smart multilingual translation tool with automation and text handling. | Python · API Integration |
 
 ---
 
