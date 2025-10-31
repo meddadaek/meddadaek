@@ -1,95 +1,98 @@
-# ⚡ AEK MEDDAD — Crafting the Future with Code & Design  
 
-> _"Code the impossible. Design the unforgettable."_  
-
----
-
-## 👾 Who Am I  
-
-🚀 **AI Explorer | System Thinker | Visual Creator**  
-Blending **art, logic, and automation** to build digital experiences that *feel alive*.  
-Currently navigating the world between **machine intelligence**, **low-level computing**, and **creative design systems**.  
-
-🧠 **Interests:**  
-- Artificial Intelligence & Automation (Python)  
-- Low-level Programming (C & Systems)  
-- Algorithmic Thinking & Problem Solving  
-- Digital Aesthetics & Visual Storytelling  
-
-💬 **Philosophy:**  
-> _Silent grind. Constant upgrade. Unstoppable evolution._  
-
----
-
-## 🧰 Tech Stack  
+<h1 align="center">
+⚡ AEK MEDDAD — Building the Neural Future
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0B3D91?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/C-004880?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-1E1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-FA7A0C?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<em>CS Student • AI Architect in Progress • Creative Technologist</em>  
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&color=22F7E7&center=true&vCenter=true&width=500&lines=Crafting+AI+Systems+That+Think+and+Create;Merging+Code+%2B+Design+for+Digital+Evolution;Grinding+in+Silence+—+Building+in+Public" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🔬 Currently Building  
+## 🧬 About Me  
 
-💡 **AI + Automation Experiments**  
-→ Smart systems that learn, adapt, and automate everyday tasks.  
+I’m **Doro Kanji**, a creator who moves between **machine intelligence**, **low-level programming**, and **visual design**.  
+I believe the future isn’t coded — it’s *engineered*, *trained*, and *crafted*.  
 
-🌀 **Design + Code Synergy**  
-→ Merging design thinking with algorithmic logic to build human-centered digital products.  
+- 🧠 Exploring **Artificial Intelligence**, **Automation**, and **System Architecture**  
+- 💻 Learning **C for precision** and **Python for intelligence**  
+- 🎨 Designing visuals and digital aesthetics that feel alive  
+- 🚀 Building toward a personal **AI x Design ecosystem**  
 
-💻 **Problem Solving Mindset**  
-→ Practicing algorithms, data structures, and low-level optimization daily.  
+> _"Between logic and imagination — that’s where real innovation lives."_
 
 ---
 
-## 🌌 Featured Projects  
-
-| Project | Description | Tech |
-|:--------|:-------------|:------|
-| 🪐 **Planet Simulation** | Physics-based simulation of orbital motion | Python |
-| 🧩 **Sudoku Solver** | AI-powered puzzle solver | Python |
-| 🎮 **Sudoku Game** | Interactive terminal-based game | Python |
-| 🔤 **File Translator** | Translates text files between languages | Python |
+## ⚙️ Tech Arsenal  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meddadaek&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meddadaek&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://skillicons.dev/icons?i=python,c,flutter,docker,git,github,figma,photoshop,vscode,jupyter" />
+</p>
+
+<p align="center">
+<sub>Every tool is a new extension of thought. Mastery is the only constant.</sub>
 </p>
 
 ---
 
-## 🌍 Activity & Growth  
+## 🧠 Active Projects  
+
+| ⚙️ Project | 🔍 Description | 🧩 Stack |
+|:------------|:----------------|:----------|
+| **🪐 Planet Simulation** | A gravity simulation visualizing orbital motion | Python, Pygame |
+| **🧩 Sudoku Solver** | AI-based Sudoku solving system | Python, OpenCV |
+| **🎮 Sudoku Game** | Interactive terminal game | Python |
+| **🌐 File Translator** | Language translation automation | Python, APIs |
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meddadaek&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=meddadaek&show_icons=true&theme=radical&hide_border=true&title_color=22f7e7&icon_color=22f7e7" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meddadaek&theme=radical&hide_border=true&ring=22f7e7&fire=22f7e7" width="48%"/>
 </p>
 
 ---
 
-## 🧬 Vision  
+## 🔮 The Vision  
 
-> _To merge human creativity with machine precision — building tools, systems, and visuals that inspire the next digital era._  
+<p align="center">
+<em>“To merge artificial intelligence with human creativity —  
+and design systems that don't just compute, but express.”</em>
+</p>
+
+🧩 I’m currently:  
+- Designing **neural tools** that automate creative work.  
+- Learning **system-level programming** to understand the hardware–software bridge.  
+- Prototyping **AI-driven assistants** that evolve visually and cognitively.  
 
 ---
 
-### 🛰 Connect With Me  
+## 🌌 Digital Footprint  
 
 <p align="center">
-  <a href="https://x.com/kanji58360"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meddadaek&theme=react-dark&hide_border=true&area=true&custom_title=Creative+Momentum+⚡"/>
+</p>
+
+---
+
+## 🛰️ Connect & Collaborate  
+
+<p align="center">
+  <a href="https://x.com/kanji58360"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://github.com/meddadaek"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/_med_AEK"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-🧩 _Last updated: {{ current year }} — Building, learning, evolving._
+<h3 align="center">
+💡 “Think like a designer. Code like an engineer. Build like a visionary.”  
+</h3>
+
+<p align="center">
+<sub>🧩 Last updated — 2025 | Engineered by Doro Kanji</sub>
+</p>
+
 
