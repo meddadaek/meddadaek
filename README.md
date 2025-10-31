@@ -35,7 +35,7 @@ Hey, I’m **Doro Kanji** — a creator moving through three worlds:
 ## ⚙️ Tech Stack — *Weapons of the Future*  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,flutter,docker,git,github,figma,photoshop,vscode,jupyter,fastapi,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,flutter,docker,git,github,figma,photoshop,vscode,fastapi,sqlite&theme=dark" />
 </p>
 
 <p align="center">
@@ -53,15 +53,7 @@ Hey, I’m **Doro Kanji** — a creator moving through three worlds:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meddadaek&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF00FF&icon_color=00FFFF&text_color=00FFFF" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=meddadaek&theme=tokyonight&hide_border=true&ring=FF00FF&fire=00FFFF&currStreakNum=00FFFF&sideNums=FF00FF" width="48%"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=2000&color=F700FF&center=true&vCenter=true&width=600&lines=⚡+Building+AI+Systems+That+Think+and+Create;💾+Designing+Machines+With+Soul;🚀+Coding+The+Future+One+Neuron+At+A+Time" alt="Typing SVG" />
-</p>
-
 
 
 <p align="center"><sub>⚡ Every tool is a neural extension of thought.</sub></p>
