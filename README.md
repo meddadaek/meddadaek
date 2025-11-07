@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=2000&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+AI+Systems+That+Think+and+Create;Designing+Machines+With+Soul;Coding+The+Future+One+Neuron+At+A+Time" alt="Typing SVG" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=meddadaek)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meddadaek&label=Profile%20views&color=0e75b6&style=flat" alt="meddadaek" /> </p>
 
 ---
 
