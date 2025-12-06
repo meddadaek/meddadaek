@@ -51,7 +51,6 @@ with a rising focus on **Computer Vision**.
 
 | Project | Description | Stack |
 |---------|-------------|--------|
-| **🔥 Object Detection Practice (YOLO Series)** | Learning CV fundamentals with detection + segmentation experiments. | Python · OpenCV · YOLO |
 | **GYM AI — Personalized Training Recommender** | Model predicting and adapting workout plans, Gymshark-style. | Python · Pandas · Scikit-Learn · TensorFlow |
 | **Cat vs Dog Classifier** | CNN built from scratch for image classification. | TensorFlow · Keras · OpenCV |
 | **Planet Simulation** | Real-time orbital physics & gravity visualization. | Python |
