@@ -47,17 +47,6 @@ with a rising focus on **Computer Vision**.
 
 ---
 
-## 🔥 Cyber Stats — *Neural Activity*  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meddadaek/github-stats-transparent/output/generated/languages.svg" width="48%">
-  <img src="https://raw.githubusercontent.com/meddadaek/github-stats-transparent/output/generated/overview.svg" width="48%">
-</p>
-
-<p align="center"><sub>⚡ Learning in public — one repo, one model, one breakthrough at a time.</sub></p>
-
----
-
 ## 🧩 Featured Projects — *Computer Vision & AI in Action*  
 
 | Project | Description | Stack |
