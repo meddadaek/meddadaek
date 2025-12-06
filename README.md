@@ -50,7 +50,8 @@ with a rising focus on **Computer Vision**.
 ## 🔥 Cyber Stats — *Neural Activity*  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrk.vercel.app/api?username=meddadaek&show_icons=true&theme=react&hide_border=true&title_color=00AFFF&icon_color=00AFFF&text_color=00AFFF&bg_color=000000" width="48%"/>
+  <img src="https://raw.githubusercontent.com/meddadaek/github-stats-transparent/output/generated/languages.svg" width="48%">
+  <img src="https://raw.githubusercontent.com/meddadaek/github-stats-transparent/output/generated/overview.svg" width="48%">
 </p>
 
 <p align="center"><sub>⚡ Learning in public — one repo, one model, one breakthrough at a time.</sub></p>
