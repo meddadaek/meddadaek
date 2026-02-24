@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0075FF,100:00AFFF&height=200&section=header&text=AEK%20MEDDAD&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20Engineer%20%7C%20AI%20Developer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0075FF,100:00AFFF&height=200&section=header&text=AEK%20MEDDAD&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Developer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1500&color=00AFFF&center=true&vCenter=true&width=600&lines=Building+systems+that+see+and+understand.;Computer+Vision+%7C+Deep+Learning+%7C+AI+Tools.;From+raw+data+to+deployed+intelligence.;Learn.+Build.+Ship.+Repeat.)](https://github.com/meddadaek)
 
@@ -55,7 +55,7 @@ class AEK_MEDDAD:
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=0075FF)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=00AFFF)
 
-**AI · ML · Computer Vision**
+**AI · ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
@@ -97,7 +97,6 @@ class AEK_MEDDAD:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=meddadaek&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00AFFF&icon_color=0075FF&text_color=ffffff&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meddadaek&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00AFFF&text_color=ffffff"/>
 
 </div>
