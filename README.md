@@ -118,12 +118,11 @@ class AEK_MEDDAD:
 ## 🎯 2025 Roadmap
 
 ```
-[██████████░░░░░░░░░░]  Computer Vision Fundamentals      ████ In Progress
-[████░░░░░░░░░░░░░░░░]  Object Detection (YOLO, R-CNN)   ██░░ Learning
-[██░░░░░░░░░░░░░░░░░░]  Vision Transformers (ViT)        █░░░ Upcoming
-[████████░░░░░░░░░░░░]  Model Deployment (FastAPI)       ████ Building
+[██████████░░░░░░░░░░]  mMachine learning Fundamentals      ████ In Progress
+[████░░░░░░░░░░░░░░░░]  End to end machine learning systems   ██░░ Learning
+[██░░░░░░░░░░░░░░░░░░]  Transformers                     █░░░ Upcoming
+[████████░░░░░░░░░░░░]  Model Deployment (FastAPI,Flask)       ████ Building
 [██████░░░░░░░░░░░░░░]  AI Tool Development              ███░ Active
-[░░░░░░░░░░░░░░░░░░░░]  First CV Internship              ──── Target: Late 2025
 ```
 
 ---
