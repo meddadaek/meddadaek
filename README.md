@@ -118,9 +118,9 @@ class AEK_MEDDAD:
 ## 🎯 2025 Roadmap
 
 ```
-[██████████░░░░░░░░░░]  mMachine learning Fundamentals      ████ In Progress
-[████░░░░░░░░░░░░░░░░]  End to end machine learning systems   ██░░ Learning
-[██░░░░░░░░░░░░░░░░░░]  Transformers                     █░░░ Upcoming
+[██████████░░░░░░░░░░]  Machine learning Fundamentals      ████ In Progress
+[█████████░░░░░░░░░░░]  End to end machine learning systems   ██░░ Learning
+[█████░░░░░░░░░░░░░░░]  Transformers                     █░░░ Upcoming
 [████████░░░░░░░░░░░░]  Model Deployment (FastAPI,Flask)       ████ Building
 [██████░░░░░░░░░░░░░░]  AI Tool Development              ███░ Active
 ```
