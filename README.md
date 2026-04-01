@@ -1,149 +1,99 @@
-
-<!-- 
-══════════════════════════════════════════════════════════════════════
-⚠️ AEK SYSTEM v2.0 — AUTONOMOUS AI ENGINE INITIALIZED
-══════════════════════════════════════════════════════════════════════
--->
-
 <div align="center">
-
-<pre>
-╭──────────────────────────────────────────────────────────────────────╮
-│                     █████╗ ███████╗██╗  ██╗                           │
-│                    ██╔══██╗██╔════╝██║ ██╔╝                           │
-│                    ███████║█████╗  █████╔╝                            │
-│                    ██╔══██║██╔══╝  ██╔═██╗                            │
-│                    ██║  ██║███████╗██║  ██╗                           │
-│                    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                           │
-│                                                                      │
-│        ▓▓▓▓▓▓  AEK AI ENGINE — ONLINE  ▓▓▓▓▓▓                         │
-│   ▓▓  BUILDING SYSTEMS THAT THINK, DECIDE, AND SCALE  ▓▓              │
-│        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                              │
-╰──────────────────────────────────────────────────────────────────────╯
-</pre>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=I+build+AI+systems+that+don't+just+predict—they+act;Multi-Agent+Architect;RAG+Systems+%7C+Healthcare+AI;From+data+to+decisions+to+automation" />
-
-<p>
-  <img src="https://img.shields.io/badge/STATUS-PRODUCTION_READY-00ff00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FOCUS-AI_SYSTEMS-ff00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SPECIALTY-MULTI_AGENT-ff6600?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AVAILABILITY-OPEN_TO_WORK-00ffff?style=for-the-badge"/>
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0075FF,100:00AFFF&height=200&section=header&text=AEK%20MEDDAD&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Developer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+[<image-card alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1500&color=00AFFF&center=true&vCenter=true&width=600&lines=Building+systems+that+scale+and+understand.;Machine+Learning+%7C+Deep+Learning+%7C+AI+Tools.;From+raw+data+to+deployed+intelligence.;Learn.+Build.+Ship.+Repeat." ></image-card>](https://github.com/meddadaek)
+<br>
+<image-card alt="Profile Views" src="https://komarev.com/ghpvc/?username=meddadaek&style=for-the-badge&color=0075FF&label=PROFILE+VIEWS" ></image-card>
+[<image-card alt="GitHub followers" src="https://img.shields.io/github/followers/meddadaek?style=for-the-badge&color=0075FF&labelColor=0d1117&label=FOLLOWERS" ></image-card>](https://github.com/meddadaek?tab=followers)
 </div>
-
 ---
-
-# ⚡ WHAT I ACTUALLY DO
-
-I don’t just train models.
-
-👉 I build **end-to-end AI systems** that:
-- take raw data  
-- make decisions  
-- trigger real actions  
-
-💡 Focus:
-- Multi-Agent Systems  
-- RAG + Local LLM Architectures  
-- Healthcare AI (Explainable + Secure)  
-
+## ⚡ About Me
+```python
+class AEK_MEDDAD:
+    def __init__(self):
+        self.name = "AEK Meddad"
+        self.role = "ML Engineer & AI Builder"
+        self.location = "Algeria 🇩🇿"
+        self.focus = ["ML Systems", "AI-Powered Products", "Business Automation"]
+        self.belief = "AI isn't a trend. It's the new infrastructure for every business."
+        self.mindset = "Don't just train models. Build systems that make businesses scale."
+    def what_i_build(self):
+        return {
+            "ML Systems": "End-to-end pipelines — data ingestion → training → deployment → monitoring",
+            "AI Tools": "Lightweight products that automate real business workflows",
+            "APIs & Backend":"FastAPI services that put ML models in front of real users",
+        }
+    def value_i_deliver(self):
+        return [
+            "Turn raw business data into predictive models that drive decisions",
+            "Replace manual, repetitive processes with intelligent automation",
+            "Ship ML-powered features that make products smarter over time",
+        ]
+    def currently_learning(self):
+        return ["MLOps", "LLM integration & AI agents", "Scalable model serving"]
+```
 ---
-
-# 🧠 LIVE SYSTEMS
-
-## 🔬 HPAIS — Healthcare AI System
-> Multi-agent system that automates medical decision workflows
-
-- 5 specialized agents (intake → retrieval → validation → orchestration → compliance)  
-- 100% offline (local LLMs + RAG)  
-- Designed for **real-world healthcare constraints**
-
-👉 **Code:** https://github.com/meddadaek  
-👉 **Impact:** Autonomous + explainable decisions
-
----
-
-## 📊 ChurnIQ — Predictive + Actionable AI
-> Not just prediction — generates retention strategies
-
-- AUC: **0.919** (20-fold CV)  
-- 130+ engineered features  
-- SHAP explainability  
-- LLM-powered recommendations  
-
-👉 **Code:** https://github.com/meddadaek  
-
----
-
-## 🎥 NoteStream — AI Learning Engine
-> Turns content into structured knowledge
-
-- YouTube → summaries → quizzes  
-- FastAPI + LLM pipeline  
-- Built for productivity & learning optimization  
-
-👉 **Code:** https://github.com/meddadaek  
-
----
-
-# 🧬 CORE STACK
-
-AI/ML: TensorFlow • PyTorch • Scikit-learn
-Backend: FastAPI • Flask
-Data: Pandas • SQL
-Systems: RAG • LangGraph • Multi-Agent Architectures
-Deployment: Docker • Railway • Local LLMs (Ollama)
-
-
----
-
-# 📡 SYSTEM METRICS
-
+## 🛠️ Tech Stack
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meddadaek&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meddadaek&layout=compact&theme=radical"/>
+**Core Languages**
+<image-card alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00AFFF" ></image-card>
+<image-card alt="C" src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=0075FF" ></image-card>
+<image-card alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=00AFFF" ></image-card>
+**AI · ML**
+<image-card alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" ></image-card>
+<image-card alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" ></image-card>
+<image-card alt="Keras" src="https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000" ></image-card>
+<image-card alt="OpenCV" src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" ></image-card>
+<image-card alt="scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" ></image-card>
+<image-card alt="Pandas" src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458" ></image-card>
+<image-card alt="NumPy" src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243" ></image-card>
+**Backend · DevOps · Tools**
+<image-card alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" ></image-card>
+<image-card alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" ></image-card>
+<image-card alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" ></image-card>
+<image-card alt="VSCode" src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" ></image-card>
 </div>
-
 ---
-
-# 🎯 WHY ME?
-
-Most people:
-❌ Build models  
-❌ Stop at notebooks  
-
-Me:
-✅ Build **systems that run in production**  
-✅ Combine ML + backend + decision logic  
-✅ Focus on **real-world impact (not just accuracy)**  
-
----
-
-# 📩 LET’S BUILD
-
+## 🚀 Featured Projects
 <div align="center">
-
-<a href="mailto:meddadaek@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's_Build-red?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/aek-meddad">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://kaggle.com/aekmeddad">
-  <img src="https://img.shields.io/badge/Kaggle-Profile-cyan?style=for-the-badge"/>
-</a>
-
+| Project | What It Does | Tech |
+|:--------|:-------------|:-----|
+| [**🏋️ GYM AI**](https://github.com/meddadaek) | Predicts & adapts personalized workout plans based on user data | `TensorFlow` `Pandas` `Scikit-Learn` |
+| [**🐾 Cat vs Dog Classifier**](https://github.com/meddadaek) | CNN built from scratch — no shortcuts, clean CV pipeline | `Keras` `OpenCV` `TensorFlow` |
+| [**🌐 File Translator**](https://github.com/meddadaek) | Multilingual document automation tool via API | `Python` `REST APIs` |
+| [**🧩 Sudoku Solver**](https://github.com/meddadaek) | Backtracking AI solving any valid board instantly | `Python` |
+| [**🪐 Planet Simulation**](https://github.com/meddadaek) | Real-time orbital physics & gravity engine | `Python` `Pygame` |
+| [**🚀 Space Shooter**](https://github.com/meddadaek) *(WIP)* | 2D game with AI-driven enemy behavior | `Python` `Pygame` |
 </div>
-
 ---
-
-<pre align="center">
-> system.shutdown()
-
-[INFO] AEK AI ENGINE paused...
-[INFO] Waiting for next opportunity 🚀
-</pre>
+## 📊 GitHub Stats
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meddadaek&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00AFFF&text_color=ffffff"/>
+</div>
+<div align="center">
+[<image-card alt="GitHub Streak" src="https://streak-stats.demolab.com?user=meddadaek&theme=dark&hide_border=true&background=0d1117&ring=0075FF&fire=00AFFF&currStreakLabel=00AFFF&sideLabels=ffffff&dates=888888" ></image-card>](https://git.io/streak-stats)
+</div>
+<div align="center">
+[<image-card alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=meddadaek&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00AFFF&line=0075FF&point=ffffff" ></image-card>](https://github.com/meddadaek)
+</div>
+---
+## 🎯 2025 Roadmap
+```
+[██████████░░░░░░░░░░] Machine learning Fundamentals ████ In Progress
+[█████████░░░░░░░░░░░] End to end machine learning systems ██░░ Learning
+[█████░░░░░░░░░░░░░░░] Transformers █░░░ Upcoming
+[████████░░░░░░░░░░░░] Model Deployment (FastAPI,Flask) ████ Building
+[██████░░░░░░░░░░░░░░] AI Tool Development ███░ Active
+```
+---
+## 🌐 Connect
+<div align="center">
+[<image-card alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" ></image-card>](https://github.com/meddadaek)
+[<image-card alt="Twitter / X" src="https://img.shields.io/badge/X%20%2F%20Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white" ></image-card>](https://x.com/kanji58360)
+[<image-card alt="Instagram" src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" ></image-card>](https://www.instagram.com/_med_AEK)
+<br>
+**📬 Open to:** Internships · Collaborations · ML & AI Projects
+</div>
+---
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AFFF,50:0075FF,100:0d1117&height=120&section=footer&animation=fadeIn" />
+</div>
