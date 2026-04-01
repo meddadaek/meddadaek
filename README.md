@@ -3,7 +3,7 @@
   
   <br>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1200&color=00AFFF&center=true&vCenter=true&width=620&lines=Building+AI+systems+that+solve+real+problems;From+research+to+production+to+impact;Healthcare+AI+%7C+Multimodal+RAG+%7C+Autonomous+Agents;Learn.+Build.+Scale.+Repeat.)](https://github.com/meddadaek)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1200&color=00AFFF&center=true&vCenter=true&width=620&lines=Building+production-grade+AI+that+drives+real+impact;From+raw+data+to+deployed+intelligence;Healthcare+AI+%7C+Multimodal+RAG+%7C+Autonomous+Agents;Learn.+Build.+Scale.+Repeat.)](https://github.com/meddadaek)
   
   <br>
   
@@ -15,29 +15,40 @@
 
 ## ⚡ About Me
 
-I’m **AEK Meddad**, a Computer Science student and AI builder from Algeria 🇩🇿.  
+**AEK Meddad** — Machine Learning Engineer & AI Builder from Algeria 🇩🇿.  
 
-I design and ship **intelligent systems** that turn raw data into real business and healthcare impact. My focus is on **production-grade ML**, **multimodal AI**, and **autonomous agents** that solve meaningful problems.
+I design and ship **end-to-end AI systems** that turn complex data into real business and healthcare value. Currently building production-ready solutions with a strong focus on **multimodal RAG**, **multi-agent systems**, and **explainable AI**.
 
-**What drives me:**  
-- Building AI that doesn’t just predict — it **acts** and **scales**.  
-- Turning complex research into simple, deployable products.  
-- Creating tools that save time, reduce costs, and improve lives.
+**What defines me:**
+- Obsessed with **production-grade** ML — not just notebooks.
+- Passionate about turning research into scalable products that solve real problems.
+- Freelance ML Developer delivering custom models and pipelines for clients.
 
 ---
 
-## 🚀 Current Flagship Project
+## 🚀 Flagship Project
 
 ### **HPAIS – Healthcare Prior Authorization Intelligence System**
-A **fully local multi-agent RAG system** designed to automate and explain prior authorization decisions in healthcare.
+A **fully local multi-agent RAG system** built to automate and explain prior authorization decisions in healthcare.
 
-- 5 specialized agents (Intake, Retrieval, Validation, Orchestration, Compliance)
-- Hybrid retrieval (vector + knowledge graph + structured rules)
-- Multimodal document understanding (PDFs, tables, images, lab results)
-- Human-in-the-loop + full audit trails for safety-critical use
-- Built with **RAGAnything + LightRAG + Ollama** (100% offline & HIPAA-friendly)
+- 5 specialized agents: **Intake • Retrieval • Validation • Orchestration • Compliance**
+- Hybrid retrieval pipeline (vector search + structured rules + knowledge graph)
+- Multimodal document intelligence (PDFs, tables, lab results, images)
+- Human-in-the-loop validation, full audit trails, and safety-critical design
+- 100% offline with **RAGAnything + LightRAG + Ollama** (HIPAA-friendly)
 
 **Status:** In active development — coming to GitHub soon.
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Impact & Tech |
+|---------|-------------|---------------|
+| **[ChurnIQ](https://github.com/meddadaek)** *(Live App)* | 2-stage ML pipeline (Ridge → XGBoost) for customer churn prediction | **0.919 AUC** (20-fold CV) • 130+ engineered features • SHAP explainability • Flask dashboard + Groq LLM retention strategies |
+| **[NoteStream](https://github.com/meddadaek)** *(Live App)* | Full-stack AI web app that processes YouTube videos into smart notes, summaries & quizzes | FastAPI backend • LLM-powered transcript cleaning & structuring with Pandas/NumPy • Deployed & production-ready |
+| **[Gymshark Product Recommendation System](https://github.com/meddadaek)** | Content-based recommendation engine using NLP & cosine similarity | Real e-commerce style cross-sell system • Pandas • Scikit-Learn |
+| **HPAIS** *(In Progress)* | Multi-agent RAG system for healthcare prior authorization | RAGAnything • Ollama • LangGraph • Docling |
 
 ---
 
@@ -45,45 +56,54 @@ A **fully local multi-agent RAG system** designed to automate and explain prior 
 
 <div align="center">
 
-**Languages & Core**  
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00AFFF)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=0075FF)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=00AFFF)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=0075FF)
 
-**AI & Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+**Machine Learning & AI**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-
-**Modern AI & Agents**  
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=ffffff)
-![RAGAnything](https://img.shields.io/badge/RAGAnything-0d1117?style=for-the-badge&logo=lightrag&logoColor=00AFFF)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=00AFFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![RAGAnything](https://img.shields.io/badge/RAGAnything-0d1117?style=for-the-badge&logo=lightrag&logoColor=00AFFF)
+![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=ffffff)
 
-**Tools & Infrastructure**  
+**Data & Visualization**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=matplotlib&logoColor=11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=seaborn&logoColor=3776AB)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logo=chromadb&logoColor=FF6F00)
+
+**Deployment & Tools**  
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 💼 Experience
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[HPAIS](https://github.com/meddadaek/hpa-is)** *(In Progress)* | Multi-agent RAG system for healthcare prior authorization with explainable decisions | RAGAnything • Ollama • LangGraph • Docling |
-| **[Gymshark Product Recommendation System](https://github.com/meddadaek/Gymshark-Product-Recommendation-System)** | Personalized workout & product recommendation engine | Jupyter • TensorFlow • Pandas • Scikit-Learn |
-| **[NoteStream](https://github.com/meddadaek/notestream)** | AI-powered web app that extracts smart notes, summaries, and quizzes from educational videos | Python • CSS • AI summarization |
-| **[Face Mask Detection](https://github.com/meddadaek/face-mask-detection)** | Real-time computer vision model for mask compliance | Jupyter • Keras • OpenCV • TensorFlow |
-| **[Sudoku Solver & Game](https://github.com/meddadaek/SUDOKU_game)** | Intelligent backtracking solver + interactive game | Python • Pygame |
-| **[Telegram Bot](https://github.com/meddadaek/telegram_bot)** | Custom automation bot with AI capabilities | Python |
+**Freelance Machine Learning Developer**  
+*Self-Employed • Remote • 2024 – Present*  
+- Built and delivered custom ML models & data pipelines for classification, regression, and NLP tasks  
+- Specialized in **data cleaning, validation, feature engineering**, and production-ready deployment  
+- Communicated technical results to non-technical stakeholders using clear visualizations (Matplotlib/Seaborn)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+Université Saad Dahleb Blida 1 • Algiers, Algeria  
+*Sep 2024 – Jun 2027*  
+- GPA: **13/20**  
+- Top academic standing within department cohort  
+- Relevant coursework: Machine Learning, Algorithms & Data Structures, Linear Algebra, Probability & Statistics, Databases
 
 ---
 
@@ -99,35 +119,26 @@ A **fully local multi-agent RAG system** designed to automate and explain prior 
 
 ---
 
-## 🎯 2026 Vision
-
-- Ship **HPAIS** as a production-ready open-source healthcare AI tool  
-- Master **MLOps** and scalable agent systems  
-- Build more **AI-first products** that solve real industry problems  
-- Collaborate on impactful open-source and startup projects
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
+  <a href="mailto:meddadaek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
   <a href="https://www.linkedin.com/in/aek-meddad/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/kanji58360">
     <img src="https://img.shields.io/badge/X%20%2F%20Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://www.kaggle.com/aekmeddad">
+  <a href="https://kaggle.com/aekmeddad">
     <img src="https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
-  </a>
-  <a href="https://leetcode.com/u/AEK_med/">
-    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
   </a>
 </div>
 
 <br>
 
-**📬 Open to:** Internships • Collaborations • Healthcare AI projects • Startup opportunities
+**📬 Open to:** Internships • Collaborations • Healthcare AI & ML Projects • Startup opportunities
 
 ---
 
