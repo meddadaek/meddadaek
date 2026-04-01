@@ -54,11 +54,12 @@ Project	What It Does	Tech
 </div>
 📊 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meddadaek&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00AFFF&text_color=ffffff"/> <br> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=meddadaek&theme=dark&hide_border=true&background=0d1117&ring=0075FF&fire=00AFFF"/> </a> <br> <a href="https://github.com/meddadaek"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=meddadaek&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00AFFF&line=0075FF&point=ffffff"/> </a> </div>
+
 🌐 Connect
 <div align="center"> <a href="https://github.com/meddadaek"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://x.com/kanji58360"> <img src="https://img.shields.io/badge/X%20%2F%20Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="https://www.instagram.com/_med_AEK"> <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/> </a>
 <br><br>
 
 📬 Open to: Internships · Collaborations · ML & AI Projects
 
-</div>
+</div> ```
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AFFF,50:0075FF,100:0d1117&height=120&section=footer&animation=fadeIn" /> </div>
