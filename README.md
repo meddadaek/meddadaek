@@ -19,7 +19,7 @@
 
 With deep expertise in end-to-end AI development — from rigorous data validation and advanced feature engineering to model optimization, explainability, and scalable deployment — I build solutions that don’t just work in notebooks… they deliver measurable business impact at scale.
 
-I am currently launching my **MLaaS agency**, partnering with forward-thinking companies to implement custom AI solutions that drive automation, predictive intelligence, and operational efficiency. Whether you need churn prediction engines, intelligent RAG systems, multi-agent architectures, or full-stack AI products — I design and ship systems engineered for real ROI.
+I am soon launching my **MLaaS agency**, partnering with forward-thinking companies to implement custom AI solutions that drive automation, predictive intelligence, and operational efficiency. Whether you need churn prediction engines, intelligent RAG systems, multi-agent architectures, or full-stack AI products — I design and ship systems engineered for real ROI.
 
 **My approach**: AI is no longer experimental. It’s strategic infrastructure. I don’t just train models — I architect systems that create competitive advantage.
 
