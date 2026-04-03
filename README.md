@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,30:0075FF,70:00AFFF&height=260&section=header&text=AEK%20MEDDAD&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20AI%20Systems%20Architect%20%E2%80%A2%20MLaaS%20Founder&descAlignY=62&descSize=22&animation=fadeIn" />
   
   <a href="https://github.com/meddadaek">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1000&color=00AFFF&center=true&vCenter=true&width=720&lines=Turning%20raw%20data%20into%20production%20intelligence;Building%20AI%20systems%20that%20drive%20real%20business%20impact;Launching%20MLaaS%20to%20help%20companies%20scale%20with%20AI" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=21&duration=2800&pause=900&color=00AFFF&center=true&vCenter=true&width=740&lines=Engineering%20production-grade%20AI%20that%20delivers%20real%20ROI;From%20raw%20data%20to%20intelligent%2C%20scalable%20business%20systems;Helping%20companies%20transform%20through%20strategic%20MLaaS%20solutions" />
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=meddadaek&style=for-the-badge&color=0075FF&label=PROFILE+VIEWS" />
@@ -15,42 +15,36 @@
 
 ## 👋 About Me
 
-Hi, I'm **AEK Meddad** — a Machine Learning Engineer and AI Systems Architect based in Algeria 🇩🇿.
+**AEK Meddad** — Machine Learning Engineer & AI Systems Architect with a proven ability to turn complex data into production-ready intelligent systems.
 
-I build **production-grade AI systems** that move from raw data to real business impact. Whether it’s advanced predictive models, intelligent automation, or multi-agent architectures, I focus on solutions that are accurate, explainable, scalable, and actually get deployed.
+With deep expertise in end-to-end AI development — from rigorous data validation and advanced feature engineering to model optimization, explainability, and scalable deployment — I build solutions that don’t just work in notebooks… they deliver measurable business impact at scale.
 
-I’m now launching my own **MLaaS agency** — helping companies integrate custom AI solutions (predictive analytics, RAG systems, intelligent agents, and automation pipelines) so they can scale faster, reduce costs, and stay ahead.
+I am currently launching my **MLaaS agency**, partnering with forward-thinking companies to implement custom AI solutions that drive automation, predictive intelligence, and operational efficiency. Whether you need churn prediction engines, intelligent RAG systems, multi-agent architectures, or full-stack AI products — I design and ship systems engineered for real ROI.
 
-**My philosophy**: AI isn’t hype — it’s the new infrastructure. I don’t just train models. I engineer systems that deliver measurable ROI.
+**My approach**: AI is no longer experimental. It’s strategic infrastructure. I don’t just train models — I architect systems that create competitive advantage.
 
 ---
 
 ## 🔥 Featured Projects
 
-### **ChurnIQ** — Live App
-**Customer retention prediction & intelligent retention engine**  
-A high-impact 2-stage ML pipeline that turns churn risk into actionable business intelligence.  
-- Achieved **0.919 AUC** (20-fold CV)  
-- Engineered 130+ advanced features with statistical transformations, interactions, and distribution metrics  
-- Real-time **SHAP explainability** + Groq LLM for personalized retention strategies  
-- Interactive Flask dashboard for live inference and data quality monitoring  
+### **ChurnIQ** — Live Production App
+**High-stakes customer retention prediction & intelligent strategy engine**  
+Built a sophisticated 2-stage ML pipeline (Ridge → XGBoost) that achieved **0.919 AUC** under rigorous 20-fold cross-validation.  
+Engineered **130+ production-grade features** using advanced statistical transformations, interaction terms, and distribution-based metrics while expertly handling missing values and outliers.  
+Added real-time **SHAP explainability** and Groq LLM integration to generate personalized, actionable retention strategies.  
+Complete with interactive Flask dashboard for live inference, data quality monitoring, and executive decision support.
 
-**Live demo available** • Fully reproducible production pipeline
-
-### **NoteStream** — Live App
-**YouTube → Structured Notes + Personalized Quizzes**  
-Full-stack AI web application that processes long-form video content and turns it into clean, study-ready notes and smart quizzes.  
-- Built with FastAPI backend and LLM-powered transcript cleaning & transformation  
-- Drastically reduces manual study time  
-- Production-ready API with clear documentation  
-
-**Live demo available** • Deployed on Railway
+### **NoteStream** — Live Production App
+**YouTube-to-Structured Knowledge Platform**  
+Full-stack AI application that ingests long-form video content, performs enterprise-grade data cleaning with Pandas/NumPy, and transforms raw transcripts into concise, structured notes and personalized quizzes using LLM orchestration.  
+Built with FastAPI, deployed on Railway, and fully documented for seamless collaboration and maintenance.  
+Dramatically reduces manual study and content processing time for users and businesses.
 
 ### **Gymshark Product Recommendation System**
-Content-based e-commerce recommender using NLP and cosine similarity on real product data. Generates intelligent cross-sell recommendations that replicate real-world retail systems.
+Enterprise-grade content-based recommender using NLP feature extraction and cosine similarity on real e-commerce product data. Delivers intelligent cross-sell recommendations that mirror high-performing retail systems.
 
-### **HPAIS (Healthcare Prior Authorization Intelligence System)** — In Progress
-Multi-agent RAG system with 5 specialized agents for explainable, auditable healthcare decisions. Features hybrid retrieval, human-in-the-loop validation, and safety-critical design patterns.
+### **HPAIS — Healthcare Prior Authorization Intelligence System** (In Progress)
+Enterprise multi-agent RAG architecture featuring 5 specialized agents (Intake, Retrieval, Validation, Orchestration, Compliance). Combines vector search with structured business rules for fully explainable, auditable, and safety-critical decisions with human-in-the-loop oversight.
 
 ---
 
@@ -64,13 +58,14 @@ Multi-agent RAG system with 5 specialized agents for explainable, auditable heal
 <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=0075FF" />
 
 **Machine Learning & AI**  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
 <img src="https://img.shields.io/badge/XGBoost-1E90FF?style=for-the-badge&logo=xgboost&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
 <img src="https://img.shields.io/badge/LangGraph-00AFFF?style=for-the-badge&logo=langchain&logoColor=white" /> 
 <img src="https://img.shields.io/badge/RAG-00AFFF?style=for-the-badge&logo=ai&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Multi--Agent-0075FF?style=for-the-badge&logo=agent&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Agent-Systems-0075FF?style=for-the-badge&logo=agent&logoColor=white" />
 
 **Backend • Deployment • Tools**  
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> 
@@ -79,9 +74,10 @@ Multi-agent RAG system with 5 specialized agents for explainable, auditable heal
 <img src="https://img.shields.io/badge/Railway-00AFFF?style=for-the-badge&logo=railway&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
 
-**Visualization**  
+**Visualization & Data**  
 <img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=matplotlib&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Seaborn-0075FF?style=for-the-badge&logo=seaborn&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-0075FF?style=for-the-badge&logo=seaborn&logoColor=white" /> 
+<img src="https://img.shields.io/badge/ChromaDB-00AFFF?style=for-the-badge&logo=vector&logoColor=white" />
 
 </div>
 
@@ -103,14 +99,22 @@ Multi-agent RAG system with 5 specialized agents for explainable, auditable heal
 
 ---
 
-## 🌐 Let's Build Something Impactful
+## 🌐 Let's Build Competitive Advantage Together
 
-I'm currently open to:
-- **Full-time ML/AI Engineering roles**
-- **Freelance & consulting projects**
-- **MLaaS partnerships** (companies ready to implement AI at scale)
+**For Companies & Business Leaders**  
+Ready to move beyond AI experiments and implement systems that actually scale your operations, reduce churn, automate decisions, or create new revenue streams?  
+My MLaaS agency delivers custom, production-grade AI solutions tailored to your industry — fast, explainable, and built for ROI.  
+**Let’s talk about transforming your business with intelligent automation.**
 
-Whether you’re a recruiter looking for a production-focused engineer or a business leader who wants to integrate AI into your operations — I’d love to connect.
+**For Recruiters & Hiring Managers**  
+Looking for a battle-tested ML Engineer who owns the full lifecycle — data to deployment — with live production applications and a strong business mindset?  
+I bring proven delivery across tabular, NLP, and multi-agent systems, plus the ability to communicate technical results to stakeholders.  
+**Currently open to full-time opportunities, strategic roles, and high-impact collaborations.**
+
+---
+
+**Open for conversation.**  
+Whether you’re building the next competitive edge or hiring top AI talent — I’d love to connect.
 
 <div align="center">
   <a href="mailto:meddadaek@gmail.com"><img src="https://img.shields.io/badge/Email-meddadaek@gmail.com-0075FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
